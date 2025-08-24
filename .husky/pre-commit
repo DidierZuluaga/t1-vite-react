@@ -1,0 +1,3 @@
+# Husky v9: sin husky.sh ni shebang
+npx lint-staged
+pnpm test -- --related --run
